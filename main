@@ -1,0 +1,6 @@
+# Main frame of the programe, input data from sensors, internet, and third-parties hardware(phone, etc).
+# Decide the action to be taken based on the input data
+
+
+# Main loop
+while True:
